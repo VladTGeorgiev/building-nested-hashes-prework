@@ -1,4 +1,4 @@
 epic_tragedy = {
-  :montague => {}, 
+  :montague => {},
   :capulet => {}
 }
